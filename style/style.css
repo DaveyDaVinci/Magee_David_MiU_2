@@ -82,6 +82,34 @@ div {
 	background-color: #0099CC;
 }
 
+#titleSec {
+	border: none;
+	margin: none;
+	padding: none;
+	background: none;
+}
+
+#searchBar {
+	border: none;
+	margin: none;
+	padding: none;
+	background: none;
+}
+
+#buttonLink {
+	border: none;
+	margin: none;
+	padding: none;
+	background: none;
+}
+
+#browseSection {
+	border: none;
+	margin: none;
+	padding: none;
+	background: none;
+}
+
 /*img {
 	display: block;
 }*/
