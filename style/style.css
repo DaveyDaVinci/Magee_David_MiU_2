@@ -35,7 +35,7 @@ h1 {
 p { 
 	margin: 10px 15px;
 	padding: 15px 5px;
-	border: 3px outset black;
+	border: 1px outset black;
 	color: white;
 	text-align: center;
 	font-family: Tahoma, Geneva, Georgia;
@@ -46,7 +46,7 @@ fieldset {
 	color: white;
 	margin: 10px 15px;
 	padding: 15px 5px;
-	border: 3px outset black;
+	border: 1px outset black;
 	background-color: #0099CC;
 	text-shadow: black 0.1em 0.1em 0.2em;
 	
@@ -76,7 +76,7 @@ ul, li {
 }
 
 div {
-	border: 3px outset black;
+	border: 1px outset black;
 	margin: 10px 15px;
 	padding: 15px 5px;
 	background-color: #0099CC;
@@ -101,7 +101,10 @@ div {
 	margin: none;
 	padding: none;
 	background: none;
+	
+	
 }
+*/
 
 
 
@@ -111,6 +114,7 @@ div {
 
 
 
+/*
 h2 {
 	margin: 10px 15px;
 	padding: 15px 5px;
@@ -118,7 +122,51 @@ h2 {
 	background-color: #0099CC;
 	height: 95px;
 }
+*/
 
+h3 {
+	display:block;
+}
+
+#browsePlanets {
+	border: none;
+	margin: none;
+	padding: none;
+	background-color: none;
+	background: none;
+}
+
+#browseSkills {
+	border: none;
+	margin: none;
+	padding: none;
+	background-color: none;
+	background: none;
+}
+
+#browseMorality {
+	border: none;
+	margin: none;
+	padding: none;
+	background-color: none;
+	background: none;
+}
+
+#browseCharacter {
+	border: none;
+	margin: none;
+	padding: none;
+	background-color: none;
+	background: none;
+}
+
+#browseGenders {
+	border: none;
+	margin: none;
+	padding: none;
+	background-color: none;
+	background: none;
+}
 /* background-color: #006699; for h1 , background-color: #D8D8D8; for body */
 
 
